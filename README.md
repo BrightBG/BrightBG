@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BrightBG
+- 👀 I’m interested in Sports
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me Discord, @BrightFPS#3704
